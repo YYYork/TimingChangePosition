@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TimingChangePosition">
+    <output-path>$PROJECT_DIR$/out/artifacts/TimingChangePosition</output-path>
+    <root id="archive" name="TimingChangePosition.jar">
+      <element id="module-output" name="TimingChangePosition" />
+    </root>
+  </artifact>
+</component>

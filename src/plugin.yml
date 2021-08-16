@@ -1,0 +1,8 @@
+name: TimingChangePosition
+main: site.abaaba.TimingChangePosition
+version: 3.3
+api-version: 1.16
+commands:
+  exchange:
+    usage: "/exchange <player1> <player2> <isGamerandom(true/false)> (<gapTime>)"
+    description: "to start the game!"
